@@ -7,6 +7,7 @@ A Python-based client-server chatbot application that enables multiple clients t
 ## 🎓 University Project
 
 This project was developed as part of our university coursework by:
+- **Abdallah Hamad**
 - **Bahaa Saeed**
 - **Bahaa Elsheikh**
 - **Abdelrahman Elmadah**
