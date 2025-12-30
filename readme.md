@@ -1,6 +1,6 @@
 # Multi-Client Chatbot Server
 
-![Project Banner](demo.png)
+![Project Banner](demo.PNG)
 
 A Python-based client-server chatbot application that enables multiple clients to connect simultaneously and interact with an AI-powered chatbot using Google's Gemini API. Built with socket programming and multi-threading for concurrent client handling.
 
